@@ -1,0 +1,63 @@
+﻿﻿﻿﻿﻿﻿<html>
+<head>
+	<title>Direcetory Listing Denied</title>
+</head>
+
+<body>
+
+
+
+</body>
+</html>
+﻿﻿﻿* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-size: 640px;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.card {
+    margin: 1.2rem auto;
+    width: 36rem;
+    padding: 2.4rem;
+    font-size: 1.2rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.form-control {
+    font-size: 1.4rem;
+}
+
+button {
+    margin-top: 3rem;
+}
+
+.index {
+    margin-top: 18rem;
+}
+
+.header {
+    text-align: center;
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    margin-bottom: 2.4rem;
+}
+
+.pay-off {
+    width: 72rem;
+    margin-top: 12rem;
+}
+
+.table {
+    margin-top: 1.6rem;
+}
+
+.result {
+ 
